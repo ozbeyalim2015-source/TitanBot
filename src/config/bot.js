@@ -268,7 +268,7 @@ export const botConfig = {
     tickets: false,
     giveaways: false,
     birthday: false,
-    counter: false,
+    counter: true,
 
     // Security and self-service systems.
     verification: true,
